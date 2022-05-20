@@ -27,7 +27,7 @@ import (
 
 func main() {
 
-    s1, s2, err := Solvqeq(1, -6, 5)
+    s1, s2, err := qeq.Solveqeq(1, -6, 5)
 	if err != nil {
 		fmt.Println(err)
 		os.Exit(1)
