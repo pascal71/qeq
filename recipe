@@ -1,0 +1,20 @@
+# Quadratic Equation
+
+mkdir qeq
+cd qeq
+
+go mod init github.com/pascal71/qeq
+
+touch README.md
+touch LICENSE
+touch init.go
+touch qeq.go
+touch qeq_test.go
+
+Add package code
+Add test code
+
+Add README.md file
+Add LICENSE file
+
+
